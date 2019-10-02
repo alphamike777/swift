@@ -204,6 +204,7 @@ set(SWIFTLIB_SOURCES
   Availability.swift
   CollectionDifference.swift
   CollectionOfOne.swift
+  Differentiable.swift
   Diffing.swift
   Mirror.swift
   PlaygroundDisplay.swift
